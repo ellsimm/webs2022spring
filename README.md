@@ -1,6 +1,8 @@
 # Project 3: Website Portfolio
 
-EDIT THIS TO INCLUDE INTRO TO AND PURPOSE OF PAGE AND GOALS
+Project Intro and Goals/Purpose
+
+This site was built with the purpose of being both informative and hopefully a little funny. It is a website about the different/best places on Pitt's campus to cry. It is also a reflection on my own mental health throughout my college experience and includes mental health resources. I hope that the site will let people know they are not alone in their struggles, and if they need to cry it out - there are options!
 
 Your task in this unit is to **build a multi-page website using basic html and css files** — as opposed to a site manager like WordPress or Wix — **along with any media assets you wish to embed.** (Any JavaScript or animation you want to add for interactivity is welcome, but above and beyond expectations.) In assigning this, I have two main goals for you:
 
